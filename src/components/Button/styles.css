@@ -6,4 +6,8 @@ button {
   margin-top: 10px;
   border-radius: 4px;
   height:30px;
+  &:hover{
+    cursor: pointer;
+    background-color: #3ee45a;
+  }
 }

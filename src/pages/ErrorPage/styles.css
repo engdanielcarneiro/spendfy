@@ -1,0 +1,27 @@
+.error-page {
+  font-family: sans-serif;
+  margin: 0;
+  background-image: url('../../../public/bg-intro-desktop.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.content-area-error {
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.title-error {
+  margin-bottom: 15px;
+}
+
+.p-error {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
